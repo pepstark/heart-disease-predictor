@@ -39,3 +39,4 @@ The app uses the file `heart_cleaned.csv`.
 ## Notes
 
 The app uses an 80/20 train-test split for model evaluation.
+# heart-disease-predictor
